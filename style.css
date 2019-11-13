@@ -1,0 +1,28 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.somethingThatRuns{
+    position:absolute;
+    width:200px;
+    height:200px;
+    transition: .15s all;
+}
+
+body{
+
+  height:40vh;
+  width:40vh;
+  overflow: hidden;
+  background-color: #444444;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: 100px;
+}
+
+img {
+  size:
+}
